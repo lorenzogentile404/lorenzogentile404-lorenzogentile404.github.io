@@ -25,8 +25,8 @@ My current research interests focus on cryptographic protocols for multiparty co
 
 ## Suggested contents
 
-### Books
-
 * Katz, Jonathan, and Yehuda Lindell. Introduction to modern cryptography. CRC press, 2014.
 * Cramer, Ronald, Ivan Bjerre Damgård, and Jesper Buus Nielsen. Secure multiparty computation. Cambridge University Press, 2015.
 * Hazay, Carmit, and Yehuda Lindell. Efficient secure two-party protocols: Techniques and constructions. Springer Science & Business Media, 2010.
+* [Lindell, Yehuda. "How to simulate it–a tutorial on the simulation proof technique." Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich (2017): 277-346.](https://eprint.iacr.org/2016/046).
+* [BIU Winter School](https://www.youtube.com/@thebiuresearchcenteronappl8783/playlists).
